@@ -1,0 +1,41 @@
+{
+  "search": {
+    "roles": [
+      "react native",
+      "mobile",
+      "android",
+      "ios",
+      "software engineer",
+      "sde",
+      "frontend"
+    ],
+    "exclude_title": [
+      "senior",
+      "staff",
+      "principal",
+      "lead",
+      "manager",
+      "director",
+      "head of"
+    ],
+    "locations": [
+      "india",
+      "bengaluru",
+      "bangalore"
+    ],
+    "exclude_locations": [],
+    "experience": {
+      "min_years": 0,
+      "max_years": 2,
+      "include_if_not_stated": true
+    },
+    "max_age_days": 10
+  },
+
+  "companies": [
+  {
+    "name": "Intuit",
+    "careers": "https://jobs.intuit.com/search-jobs"
+  }
+  ]
+}

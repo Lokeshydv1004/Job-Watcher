@@ -1,0 +1,147 @@
+{
+  "search": {
+    "roles": ["react native", "mobile", "android", "ios", "software engineer", "sde", "frontend"],
+    "exclude_title": ["senior", "staff", "principal", "lead", "manager", "director", "head of"],
+    "locations": ["india", "bengaluru", "bangalore"],
+    "exclude_locations": [],
+    "experience": {
+      "min_years": 0,
+      "max_years": 2,
+      "include_if_not_stated": true
+    },
+    "max_age_days": 0
+  },
+  "companies": [
+    {"name": "Stripe",   "ats": "greenhouse", "slug": "stripe",   "careers": "https://boards.greenhouse.io/stripe"},
+    {"name": "Figma",    "ats": "greenhouse", "slug": "figma",    "careers": "https://boards.greenhouse.io/figma"},
+    {"name": "Vercel",   "ats": "greenhouse", "slug": "vercel",   "careers": "https://job-boards.greenhouse.io/vercel"},
+    {"name": "Postman",  "ats": "greenhouse", "slug": "postman",  "careers": "https://job-boards.greenhouse.io/postman"},
+    {"name": "Razorpay", "ats": "greenhouse", "slug": "razorpaysoftwareprivatelimited", "careers": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited"},
+    {"name": "Groww",    "ats": "greenhouse", "slug": "groww",    "careers": "https://job-boards.eu.greenhouse.io/groww"},
+    {"name": "Airbnb",   "ats": "greenhouse", "slug": "airbnb",   "careers": "https://boards.greenhouse.io/airbnb"},
+    {"name": "Cloudflare", "ats": "greenhouse", "slug": "cloudflare", "careers": "https://boards.greenhouse.io/cloudflare"},
+    {"name": "Databricks", "ats": "greenhouse", "slug": "databricks", "careers": "https://boards.greenhouse.io/databricks"},
+    {"name": "Coinbase", "ats": "greenhouse", "slug": "coinbase", "careers": "https://boards.greenhouse.io/coinbase"},
+    {
+      "name": "Google",
+      "ats": "custom",
+      "slug": "google",
+      "careers": "https://www.google.com/about/careers/applications/jobs/results"
+    },
+    {
+      "name": "Microsoft",
+      "ats": "custom",
+      "slug": "microsoft",
+      "careers": "https://jobs.careers.microsoft.com/global/en/search"
+    },
+    {
+      "name": "Apple",
+      "ats": "custom",
+      "slug": "apple",
+      "careers": "https://jobs.apple.com/en-in/search"
+    },
+    {
+      "name": "Amazon",
+      "ats": "custom",
+      "slug": "amazon",
+      "careers": "https://www.amazon.jobs/en/search?country=IND"
+    },
+    {
+      "name": "Uber",
+      "ats": "custom",
+      "slug": "uber",
+      "careers": "https://www.uber.com/careers/list/"
+    },
+    {
+      "name": "Coinbase",
+      "ats": "greenhouse",
+      "slug": "coinbase",
+      "careers": "https://job-boards.greenhouse.io/coinbase"
+    },
+    {
+      "name": "LinkedIn",
+      "ats": "custom",
+      "slug": "linkedin",
+      "careers": "https://www.linkedin.com/jobs/search/"
+    },
+    {
+      "name": "Goldman Sachs",
+      "ats": "custom",
+      "slug": "goldmansachs",
+      "careers": "https://www.goldmansachs.com/careers/"
+    },
+    {
+      "name": "Twitter",
+      "ats": "custom",
+      "slug": "x",
+      "careers": "https://careers.x.com/en"
+    },
+    {
+      "name": "Stripe",
+      "ats": "greenhouse",
+      "slug": "stripe",
+      "careers": "https://job-boards.greenhouse.io/stripe"
+    },
+    {
+      "name": "Flipkart",
+      "ats": "custom",
+      "slug": "flipkart",
+      "careers": "https://www.flipkartcareers.com/jobslist"
+    },
+    {
+      "name": "Adobe",
+      "ats": "workday",
+      "slug": "external_experienced",
+      "careers": "https://adobe.wd5.myworkdayjobs.com/external_experienced"
+    },
+    {
+      "name": "Atlassian",
+      "ats": "custom",
+      "slug": "atlassian",
+      "careers": "https://www.atlassian.com/company/careers/all-jobs"
+    },
+    {
+      "name": "D. E. Shaw",
+      "ats": "custom",
+      "slug": "deshaw",
+      "careers": "https://www.deshaw.com/careers"
+    },
+    {
+      "name": "Directi",
+      "ats": "trakstar",
+      "slug": "directi",
+      "careers": "https://directi.hire.trakstar.com/"
+    },
+    {
+      "name": "Media.net",
+      "ats": "custom",
+      "slug": "media-net",
+      "careers": "https://careers.media.net/"
+    },
+    {
+      "name": "Zeta",
+      "ats": "lever",
+      "slug": "zeta",
+      "careers": "https://jobs.lever.co/zeta"
+    },
+    {
+      "name": "Intuit",
+      "ats": "custom",
+      "slug": "intuit",
+      "careers": "https://jobs.intuit.com/"
+    },
+    {
+      "name": "InMobi",
+      "ats": "greenhouse",
+      "slug": "inmobi",
+      "careers": "https://job-boards.greenhouse.io/inmobi"
+    },
+    {
+      "name": "Walmart Labs",
+      "ats": "workday",
+      "slug": "WalmartExternal",
+      "careers": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal"
+    }
+
+  ]
+}
